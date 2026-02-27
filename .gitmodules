@@ -5,9 +5,12 @@
 [submodule "archaeacentre"]
 	path = archaeacentre
 	url = https://github.com/richardstoeckl/archaeacentre
+	branch = *release
 [submodule "rgbio"]
 	path = rgbio
 	url = https://github.com/richardstoeckl/rgbio
+	branch = *release
 [submodule "rksfun"]
 	path = rksfun
 	url = https://github.com/richardstoeckl/rksfun
+	branch = *release

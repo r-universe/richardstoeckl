@@ -1,0 +1,14 @@
+[
+  {
+    "package": "rgbio",
+    "releasetag": true
+  },
+  {
+    "package": "archaeacentre",
+    "releasetag": true
+  },
+  {
+    "package": "rksfun",
+    "releasetag": true
+  }
+]
