@@ -9,7 +9,7 @@
 [submodule "rgbio"]
 	path = rgbio
 	url = https://github.com/richardstoeckl/rgbio
-	branch = *release
+	branch = v0.2.0
 [submodule "rksfun"]
 	path = rksfun
 	url = https://github.com/richardstoeckl/rksfun
